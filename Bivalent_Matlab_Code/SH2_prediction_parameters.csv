@@ -1,0 +1,33 @@
+﻿Parameters used for different calculations in the paper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PTPN11_tan vs. GAB1,,,,PTPN11_N vs. GAB1,,,,PTPN11_N vs. GAB1,,,,PTPN11_tan ZAP70 vs. GAB1,,,,PTPN11-PLCg1 vs. GAB1,,,,RASA1-PTPN11  vs. GAB1,,,,PLCg1_tan vs. EGFR 1016/1138,,,,PLCg1_tan vs. EGFR 1016/1092,
+M,2,,,M,2,,,M,2,,,M,2,,,M,2,,,M,2,,,M,2,,,M,2
+N,2,,,N,2,,,N,2,,,N,2,,,N,2,,,N,2,,,N,2,,,N,2
+rerun,1,,,rerun,1,,,rerun,1,,,rerun,1,,,rerun,1,,,rerun,1,,,rerun,1,,,rerun,1
+type,1,,,type,1,,,type,1,,,type,1,,,type,1,,,type,1,,,type,1,,,type,1
+plottype,1,,,plottype,1,,,plottype,1,,,plottype,1,,,plottype,1,,,plottype,1,,,plottype,1,,,plottype,1
+MWligand,11587.07+11764.29,,,MWligand,11587.07,,,MWligand,11764.29,,,MWligand,11587.07+11764.29,,,MWligand,11587.07+8617.81,,,MWligand,10594.2 +11764.29,,,MWligand,10509.74 + 8617.81,,,MWligand,10509.74 + 8617.81
+MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9,,,MWreceptor,865.94 + 807.9
+LinkerNLig,5.75,,,LinkerNLig,5.75,,,LinkerNLig,5.75,,,LinkerNLig,13.65,,,LinkerNLig,5.75,,,LinkerNLig,5.75,,,LinkerNLig,6.8,,,LinkerNLig,6.8
+UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36,,,UnitDiameterLig,36
+LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31,,,LinkerNRec,31
+UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19,,,UnitDiameterRec,19
+Kon,3484000,,,Kon,3484000,,,Kon,1,,,Kon,3484000,,,Kon,3484000,,,Kon,251889.169,,,Kon,186708.5823,,,Kon,64852.9369
+Koff,1,,,Koff,1,,,Koff,1,,,Koff,1,,,Koff,1,,,Koff,1,,,Koff,1,,,Koff,1
+Kon2,1,,,Kon2,1,,,Kon2,1,,,Kon2,1,,,Kon2,1,,,Kon2,1,,,Kon2,319454.4893,,,Kon2,186708.5823
+Koff2,1,,,Koff2,1,,,Koff2,1,,,Koff2,1,,,Koff2,1,,,Koff2,1,,,Koff2,1,,,Koff2,1
+Kon3,1,,,Kon3,1,,,Kon3,1,,,Kon3,1,,,Kon3,1907013.997,,,Kon3,1,,,Kon3,725057.1824,,,Kon3,1
+Koff3,1,,,Koff3,1,,,Koff3,1,,,Koff3,1,,,Koff3,1,,,Koff3,1,,,Koff3,1,,,Koff3,1
+Kon4,50000,,,Kon4,1,,,Kon4,50000,,,Kon4,50000,,,Kon4,426712.182,,,Kon4,50000,,,Kon4,172277.7785,,,Kon4,725057.1824
+Koff4,1,,,Koff4,1,,,Koff4,1,,,Koff4,1,,,Koff4,1,,,Koff4,1,,,Koff4,1,,,Koff4,1
+OnTime,30,,,OnTime,30,,,OnTime,30,,,OnTime,30,,,OnTime,30,,,OnTime,30,,,OnTime,30,,,OnTime,30
+OffTime,30,,,OffTime,30,,,OffTime,30,,,OffTime,30,,,OffTime,30,,,OffTime,30,,,OffTime,30,,,OffTime,30
+KMTL,1,,,KMTL,1,,,KMTL,1,,,KMTL,1,,,KMTL,1,,,KMTL,1,,,KMTL,1,,,KMTL,1
+L0,6.00E-08,,,L0,4.00E-07,,,L0,3.00E-05,,,L0,6.00E-08,,,L0,6.00E-08,,,L0,2.50E-07,,,L0,2.50E-07,,,L0,2.50E-07
+baseRU,25,,,baseRU,25,,,baseRU,25,,,baseRU,25,,,baseRU,25,,,baseRU,25,,,baseRU,25,,,baseRU,25
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,,,,In EffCCalculator.m,
+LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible',,,LinkerTypeLig,flexible'
+LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible',,,LinkerTypeRec,flexible'
+linkerlpLig,30,,,linkerlpLig,30,,,linkerlpLig,30,,,linkerlpLig,175,,,linkerlpLig,30,,,linkerlpLig,30,,,linkerlpLig,30,,,linkerlpLig,30
+linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4,,,linkerlpRec,4
